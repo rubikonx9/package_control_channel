@@ -31,6 +31,16 @@
 			]
 		},
 		{
+			"name": "Sails Snippets",
+			"details": "https://github.com/odtorres/Sails-Sublime-Snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Salesforce Reference",
 			"details": "https://github.com/Oblongmana/sublime-salesforce-reference",
 			"releases": [
@@ -82,6 +92,19 @@
 				{
 					"sublime_text": ">=3000",
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "SashaS",
+			"description": "Theme and color scheme, where all elements are good visible",
+			"details": "https://github.com/Kristinita/SashaSublime",
+			"author": "Sasha Chernykh",
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3114",
+					"tags": "st3-"
 				}
 			]
 		},
@@ -551,6 +574,17 @@
 			]
 		},
 		{
+			"name": "Scuggest",
+			"details": "https://github.com/ssanj/Scuggest",
+			"labels": ["imports", "scala"],
+			"releases": [
+				{
+					"sublime_text": ">=3083",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ScummC",
 			"details": "https://github.com/idleberg/ScummC-Sublime-Text",
 			"labels": ["auto-complete"],
@@ -911,6 +945,16 @@
 			]
 		},
 		{
+			"name": "SendToJsonBlob",
+			"details": "https://github.com/abhishekchavan/sendtojsonblob",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SendToPasteBin",
 			"details": "https://github.com/Xaro/SendToPasteBin",
 			"releases": [
@@ -1169,6 +1213,16 @@
 			]
 		},
 		{
+			"name": "Sherumite - Color Scheme",
+			"details": "https://github.com/gsheru/Sherumite-ColorScheme",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Shinken",
 			"details": "https://github.com/Frescha/shinken-sublime",
 			"labels": ["language syntax", "snippets"],
@@ -1285,6 +1339,19 @@
 					"sublime_text": "*",
 					"tags": true
 				}
+			]
+		},
+		{
+			"name": "SideBarEnhancements",
+			"details": "https://github.com/titoBouzout/SideBarEnhancements",		
+			"readme": "https://raw.githubusercontent.com/titoBouzout/SideBarEnhancements/st3/readme.md",		
+			"donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW",		
+			"labels": ["sidebar", "folder", "directory", "file", "clipboard"],		
+			"releases": [		
+				{		
+					"sublime_text": ">=3000",
+					"tags":true
+				}		
 			]
 		},
 		{
@@ -1489,7 +1556,7 @@
 			]
 		},
 		{
-			"details": "https://github.com/tnhu/SimpleSync",
+			"details": "https://github.com/hydralien/SimpleSync",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2533,6 +2600,18 @@
 			]
 		},
 		{
+			"name": "Squirrel",
+			"details": "https://github.com/iAmRoland/Sublime-Squirrel",
+			"author": ["micheg", "Roland Piirsoo"],
+			"labels": ["language", "syntax", "snippets", "completions", "squirrel"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SRT",
 			"details": "https://github.com/SalGnt/Sublime-SRT",
 			"author": "Salvatore Gentile",
@@ -2743,7 +2822,7 @@
 			"details": "https://github.com/unphased/SublimeStatusbarPath",
 			"releases": [
 				{
-					"sublime_text": "<3000",
+					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2757,6 +2836,17 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Steadfast Color Scheme",
+			"details": "https://github.com/serogers/steadfast_color_scheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -2817,6 +2907,16 @@
 				{
 					"sublime_text": ">=3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Streamer Mode",
+			"details": "https://github.com/nicholastay/Sublime-StreamerMode",
+			"releases": [
+				{
+					"sublime_text": ">=3116",
+					"tags": true
 				}
 			]
 		},
@@ -3485,6 +3585,16 @@
 			]
 		},
 		{
+			"name": "SublimeMagic",
+			"details": "https://github.com/mreq/SublimeMagic",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SublimeNFDToNFCPaste",
 			"details": "https://github.com/astronaughts/SublimeNFDToNFCPaste",
 			"labels": ["multi-byte", "strings"],
@@ -3706,6 +3816,17 @@
 				{
 					"sublime_text": ">=3000",
 					"tags": "st3-"
+				}
+			]
+		},
+		{
+			"name": "Subpry",
+			"details": "https://github.com/BarakHarizi/subpry",
+			"labels": ["pry", "debugger"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},

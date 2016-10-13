@@ -47,6 +47,17 @@
 			]
 		},
 		{
+			"name": "Kconfig Syntax Highlight",
+			"details": "https://github.com/fallrisk/Kconfig-Highlighter",
+			"labels": ["Kconfig", "syntax highlight", "kernel config"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "KCPS Theme",
 			"details": "https://github.com/KCPS/st3-theme-kcps",
 			"labels": ["KCPS", "text colour scheme", "user interface colour scheme"],
@@ -248,6 +259,26 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Koala",
+			"details": "https://github.com/magneto538/Koala",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Koala - Snippets",
+			"details": "https://github.com/magneto538/Koala-snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},

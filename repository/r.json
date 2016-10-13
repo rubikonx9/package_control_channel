@@ -573,6 +573,16 @@
 			]
 		},
 		{
+			"name": "RecentTabSort",
+			"details": "https://github.com/Stuk/sublime-recent-tab-sort",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Red",
 			"details": "https://github.com/Oldes/Sublime-Red",
 			"labels": ["language syntax"],
@@ -732,6 +742,17 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Rekit",
+			"details": "https://github.com/supnate/rekit-sublime",
+			"description": "Provide sidebar menu for Rekit command line tools.",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -1136,6 +1157,16 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "ROBLOXLua",
+			"details": "https://github.com/MemoryPenguin/RBXLua-SublimeText",
+			"releases": [
+				{
+					"sublime_text": ">=3084",
+					"tags": true
 				}
 			]
 		},

@@ -503,6 +503,19 @@
 			]
 		},
 		{
+			"name": "EML (E-Mail)",
+			"labels": ["eml", "email", "mail", "mime", "e-mail", "RFC2045", "RFC2046", "RFC2047", "RFC4288", "RFC4289", "RFC2049"],
+			"details": "https://github.com/mariozaizar/eml-tmLanguage",
+			"author": "Mario Zaizar",
+			"donate": "https://gratipay.com/mariozaizar/",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Emmet",
 			"details": "https://github.com/sergeche/emmet-sublime",
 			"releases": [
@@ -748,6 +761,16 @@
 			]
 		},
 		{
+			"name": "Equalize",
+			"details": "https://github.com/mycelo1/equalize",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Erato Markdown",
 			"details": "https://github.com/aviflombaum/erato-markdown-sublime",
 			"releases": [
@@ -889,6 +912,16 @@
 			"name": "ETPL",
 			"details": "https://github.com/ecomfe/sublime-etpl",
 			"labels": ["snippets", "language", "syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Eval",
+			"details": "https://github.com/ViktorQvarfordt/Sublime-Eval",
 			"releases": [
 				{
 					"sublime_text": "*",

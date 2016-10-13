@@ -636,7 +636,7 @@
 			"labels": ["language syntax", "hexadecimal"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
+					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -711,6 +711,17 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Io Language",
+			"details": "https://github.com/yangsu/sublime-io",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
